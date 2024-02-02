@@ -14,8 +14,6 @@ github:
 
 jetbrains:
   intellij:
-    plugins:
-      - Stapler plugin for IntelliJ IDEA
     prebuilds:
       version: stable
 
