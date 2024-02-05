@@ -22,6 +22,3 @@ jetbrains:
 vscode:
   extensions:
     - vscjava.vscode-java-pack
-
-image:
-  file: .gitpod/Dockerfile
